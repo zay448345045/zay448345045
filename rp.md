@@ -32,3 +32,4 @@ https://github.com/Gl0w1amp
 https://github.com/Fengshi991/js
 https://github.com/Naominet/Nyadecrypt
 https://github.com/proeren2002/unsegaREBORN
+https://github.com/Player124413/NearChuckle-android-edition
